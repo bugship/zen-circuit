@@ -1,5 +1,5 @@
 /**
- * App.js — animated-enigma
+ * App.js — zen-circuit
  * @author bugship
  */
 

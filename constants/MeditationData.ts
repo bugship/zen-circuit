@@ -1,5 +1,5 @@
 /**
- * MeditationData.ts — animated-enigma
+ * MeditationData.ts — zen-circuit
  * @author bugship
  */
 
